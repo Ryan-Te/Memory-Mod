@@ -20,7 +20,7 @@ O for Octal.
 
 t is the format.  
 
-if you remove t and the comma,  it will format the rom to be based on n digits
+if you remove t and the comma,  it will format the rom to be based on n digits  
 8 for binary,  
 3 for octal,  
 3 for decimal and  
