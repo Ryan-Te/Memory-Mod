@@ -36,4 +36,6 @@ thats pretty much it for creating these files.
 to load it you do `setRomLoc LOCATION`. LOCATION is with the TUNG install directory as the root.  
 then you pulse the `Change Flash Location` peg and then pulse the `Flash ROM` or `Flash RAM` peg.  
 
-if you pulse the `Save RAM` peg on the RAM's it will make a MMROM file with the current RAM data in it and save it to the location set by `setRomLoc`  
+if you pulse the `Save RAM` peg on the RAM's it will make a MMROM file with the current RAM data in it and save it to the location set by `setRomLoc` 
+
+Pin Reference:  
